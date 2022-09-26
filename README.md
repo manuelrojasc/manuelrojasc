@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @manuelrojasc
 - 👀 I’m interested in tech 
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on marc.inc
 - 📫 How to reach me m.rojas@unas.edu.pe
 
 <!---
